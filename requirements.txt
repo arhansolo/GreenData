@@ -1,0 +1,4 @@
+dadata
+python-dotenv
+jmespath
+requests
