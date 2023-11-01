@@ -2,3 +2,4 @@ dadata
 python-dotenv
 jmespath
 requests
+xmltodict
